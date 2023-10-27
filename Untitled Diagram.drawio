@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T13:17:56.418Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rqb81wKJiBHXMMrwfPOk" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T13:34:01.433Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mvTwjaWE0W0OL7MLgvnj" version="21.7.5" type="github">
   <diagram name="Page-1" id="HVmfjPEnntu2rI3UToru">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZL-NcXrkcs-e3devnAy-1" value="Door Opening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="70" width="120" height="70" as="geometry" />
+          <mxGeometry x="365" y="70" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZL-NcXrkcs-e3devnAy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-2" target="FZL-NcXrkcs-e3devnAy-5">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZL-NcXrkcs-e3devnAy-2" value="Hinge&amp;nbsp; and Handle Detection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="120" height="70" as="geometry" />
+          <mxGeometry x="365" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZL-NcXrkcs-e3devnAy-5" value="Hinge Visible&lt;br&gt;Handle Right Direction&lt;br&gt;&quot;Pull Counter Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="210" height="60" as="geometry" />
@@ -36,6 +36,39 @@
         </mxCell>
         <mxCell id="FZL-NcXrkcs-e3devnAy-10" value="Hinge&amp;nbsp; Not Visible&lt;br&gt;Handle Right Direction&lt;br&gt;&quot;Push&amp;nbsp; Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-14" target="FZL-NcXrkcs-e3devnAy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-14" value="Door Closing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-19" target="FZL-NcXrkcs-e3devnAy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-19" target="FZL-NcXrkcs-e3devnAy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-19" target="FZL-NcXrkcs-e3devnAy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZL-NcXrkcs-e3devnAy-19" target="FZL-NcXrkcs-e3devnAy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-19" value="Hinge&amp;nbsp; and Handle Detection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-20" value="Hinge Visible&lt;br&gt;Handle Right Direction&lt;br&gt;&quot;Push&amp;nbsp; Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-21" value="Hinge Visible&lt;br&gt;Handle Left Direction&lt;br&gt;&quot;Push counter Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-22" value="Hinge&amp;nbsp; Not Visible&lt;br&gt;Handle Left Direction&lt;br&gt;&quot;Pull Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="630" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZL-NcXrkcs-e3devnAy-23" value="Hinge&amp;nbsp; Not Visible&lt;br&gt;Handle Right Direction&lt;br&gt;&quot;Pull counter&amp;nbsp; Clockwise&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
